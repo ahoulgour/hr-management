@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db.changeset/schema.sql
+  - include:
+      file: db.changeset/init.sql
