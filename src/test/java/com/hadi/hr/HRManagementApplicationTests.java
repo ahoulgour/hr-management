@@ -1,13 +1,13 @@
-package com.hadi.hr;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class HRManagementApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package com.hadi.hr;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class HRManagementApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
