@@ -1,4 +1,4 @@
-package com.hadi.hr;
+package com.hadi.hr.application;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

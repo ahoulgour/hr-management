@@ -1,4 +1,4 @@
-package com.hadi.hr;
+package com.hadi.hr.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
