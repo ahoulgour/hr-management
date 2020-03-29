@@ -1,4 +1,4 @@
-package com.hadi.hr.infrasctructure.configuration;
+package com.hadi.hr.infrastructure.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,1 +1,0 @@
-INSERT INTO PUBLIC.employee (ID) VALUES (1)
