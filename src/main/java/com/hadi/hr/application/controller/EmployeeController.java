@@ -4,7 +4,6 @@ import com.hadi.hr.application.payload.request.EmployeeRequestPayload;
 import com.hadi.hr.domain.entity.Employee;
 import com.hadi.hr.domain.mapper.EmployeeMapper;
 import com.hadi.hr.domain.service.EmployeeService;
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
