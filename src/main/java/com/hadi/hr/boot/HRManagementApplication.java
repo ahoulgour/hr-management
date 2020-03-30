@@ -11,7 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 		"com.hadi.hr.infrastructure.configuration",
 		"com.hadi.hr.application.controller",
 		"com.hadi.hr.domain.service"})
-@EnableJpaRepositories(value = {"com.hadi.hr.domain.repository"})
+@EnableJpaRepositories("com.hadi.hr.domain.repository")
 @EntityScan("com.hadi.hr.domain.entity")
 public class HRManagementApplication {
 

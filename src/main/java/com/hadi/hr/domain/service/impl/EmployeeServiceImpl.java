@@ -32,4 +32,5 @@ public class EmployeeServiceImpl implements EmployeeService {
     public Employee hireEmployee(Employee employee) {
         return employeeRepository.save(employee);
     }
+
 }
